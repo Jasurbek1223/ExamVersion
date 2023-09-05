@@ -60,8 +60,8 @@ public class UserView
 
         var checkUser = userService.Create(user);
         Console.WriteLine(checkUser.Message);
+        Console.Clear();
         Start();
-
     }
 
     public void Login()

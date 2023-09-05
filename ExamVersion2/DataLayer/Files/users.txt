@@ -38,5 +38,15 @@
     "Email": "asd@gmail.com",
     "Password": "12qw!@QW",
     "BookedFlight": []
+  },
+  {
+    "Id": 5,
+    "Role": 0,
+    "FirstName": "wewe",
+    "LastName": "wewewe",
+    "PhoneNumber": "+998999999999",
+    "Email": "aaa121@gmail.com",
+    "Password": "123",
+    "BookedFlight": []
   }
 ]
