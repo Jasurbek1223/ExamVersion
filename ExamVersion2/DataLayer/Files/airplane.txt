@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Model": "Boing707",
+    "ModelCount": 2,
+    "NumOfSeats": 10
+  },
+  {
+    "Id": 2,
+    "Model": "Uzbekistan Airways",
+    "ModelCount": 1,
+    "NumOfSeats": 12
+  },
+  {
+    "Id": 3,
+    "Model": "Turkish Airlanies",
+    "ModelCount": 1,
+    "NumOfSeats": 7
+  },
+  {
+    "Id": 4,
+    "Model": "Qatar Airways",
+    "ModelCount": 2,
+    "NumOfSeats": 3
+  }
+]

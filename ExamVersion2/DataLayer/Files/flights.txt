@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "FlyFrom": "Tashkent",
+    "FlyTo": "Buxara",
+    "TakeOfDate": "2023-09-04T17:00:41.5250543+05:00",
+    "Price": 100,
+    "BookedUsers": [],
+    "AirplaneId": 1
+  },
+  {
+    "Id": 2,
+    "FlyFrom": "London",
+    "FlyTo": "Moscow",
+    "TakeOfDate": "2023-09-05T16:00:41.5276295+05:00",
+    "Price": 500,
+    "BookedUsers": [],
+    "AirplaneId": 2
+  },
+  {
+    "Id": 3,
+    "FlyFrom": "Sirdaryo",
+    "FlyTo": "Khiva",
+    "TakeOfDate": "2023-10-04T17:00:41.5250543+05:00",
+    "Price": 100,
+    "BookedUsers": [],
+    "AirplaneId": 3
+  },
+  {
+    "Id": 4,
+    "FlyFrom": "London",
+    "FlyTo": "New-York",
+    "TakeOfDate": "2023-09-05T16:00:41.5276295+05:00",
+    "Price": 500,
+    "BookedUsers": [],
+    "AirplaneId": 4
+  }
+]

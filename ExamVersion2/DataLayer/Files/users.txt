@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 1,
+    "Role": 0,
+    "FirstName": "Jasdurbek",
+    "LastName": "Abdulhayev",
+    "PhoneNumber": "+998909179998",
+    "Email": "jasurabdulxaev@gmail.com",
+    "Password": "jasur1223",
+    "BookedFlight": []
+  },
+  {
+    "Id": 2,
+    "Role": 0,
+    "FirstName": "Asad",
+    "LastName": "Asadov",
+    "PhoneNumber": "+998919999999",
+    "Email": "asadovv12@gmail.com",
+    "Password": "asad1212",
+    "BookedFlight": []
+  },
+  {
+    "Id": 3,
+    "Role": 0,
+    "FirstName": "jfhgr",
+    "LastName": "fbggrerrgs",
+    "PhoneNumber": "+998997771329",
+    "Email": "example@gmail.com",
+    "Password": "qwerty123",
+    "BookedFlight": []
+  },
+  {
+    "Id": 4,
+    "Role": 0,
+    "FirstName": "sdf",
+    "LastName": "setbf",
+    "PhoneNumber": "+998941092151",
+    "Email": "asd@gmail.com",
+    "Password": "12qw!@QW",
+    "BookedFlight": []
+  }
+]
